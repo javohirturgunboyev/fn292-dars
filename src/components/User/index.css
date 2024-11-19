@@ -1,0 +1,37 @@
+.card{
+    width: 300px;
+    border: 2px solid gainsboro;
+    border-radius: 5px;
+    color: gainsboro;
+    padding-bottom: 20px;
+    background-color: rgb(255, 77, 0);
+}
+.card img{
+    width: 100%;
+    border-radius: 5px;
+}
+.user-info{
+    padding: 5px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.addres{
+    width: 100%;
+    border:1px solid white;
+    padding: 12px;
+    border-radius: 5px;
+    background-color: #f8ec06;
+    color: rgb(202, 6, 6);
+    line-height: 40px;
+    gap: 42px;
+}
+.cars{
+    width: 100%;
+    border:1px solid white;
+    padding: 12px;
+    border-radius: 5px;
+    background-color: rgb(19, 243, 45);
+    color: rgb(239, 13, 13);
+    
+}
